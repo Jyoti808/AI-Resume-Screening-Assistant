@@ -6,6 +6,7 @@ strengths, weaknesses and a **hire / no-hire recommendation**. It can also recom
 best candidate and answer questions about the uploaded resumes.
 
 
+👉 [Try the Sarcasm Detection App](https://ai-resume-screening-assistant-dtbbreaqiq9kptbm2swumf.streamlit.app/)
 
 ## Features
 - Upload one or many resumes (PDF) and paste any job description
@@ -55,18 +56,6 @@ images/                     Screenshots
 3. Find the missing skills in Resume C
 4. Recommend the best candidate among all resumes
 
-## Screenshots
-| Test case 1 | Test case 2 |
-|---|---|
-| ![Test 1](images/test1.png) | ![Test 2](images/test2.png) |
-
-| Test case 3 | Test case 4 |
-|---|---|
-| ![Test 3](images/test3.png) | ![Test 4](images/test4.png) |
-
-### Web app
-![App](images/app1.png)
-![Results](images/app2.png)
 
 ## Note
 The API key is kept in `.env` (local) or Streamlit Secrets (deployed) and is never uploaded to GitHub.
