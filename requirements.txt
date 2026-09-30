@@ -1,0 +1,11 @@
+streamlit
+pandas
+pypdf
+faiss-cpu
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+python-dotenv
+pydantic
